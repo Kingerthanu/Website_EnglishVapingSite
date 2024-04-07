@@ -27,6 +27,9 @@ Helped me a lot learn about mark-up languages like html and this understanding o
 
   Finally There Is A Page With Frequently Asked Questions As Well As Solutions.
 
+
+  This Website Isn't Really Anything Of Substance But Taught Me A Lot About WebDev And Made Me Learn A Lot Of New Concepts That I Haven't Heard Of Before Coming From A More Backend Java Programming Background At The Time Of Developing This Like BootStrap And JavaScript. Even Then Though I Still See This Helping Me A Lot Improve In Layouts / Organization Of Pages.
+
 <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/5602dc51-b884-4b93-9b76-1bcfc7af2912" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/5602dc51-b884-4b93-9b76-1bcfc7af2912" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/5602dc51-b884-4b93-9b76-1bcfc7af2912" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/5602dc51-b884-4b93-9b76-1bcfc7af2912" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------
