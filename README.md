@@ -24,3 +24,9 @@ Helped me a lot learn about mark-up languages like html and this understanding o
 **Features:**
   
   ![2024-01-1100-30-26-ezgif com-optimize](https://github.com/Kingerthanu/website_EnglishVapingSite/assets/76754592/3bc19821-bd9d-49fa-8041-26ee68e21490)
+
+
+
+  <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/0da11a8f-e79a-4206-9145-f9d215c26931" alt="Cornstarch <3" width="55" height="49">   <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/0da11a8f-e79a-4206-9145-f9d215c26931" alt="Cornstarch <3" width="55" height="49">   <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/0da11a8f-e79a-4206-9145-f9d215c26931" alt="Cornstarch <3" width="55" height="49">   <img src="https://github.com/Kingerthanu/Website_EnglishVapingSite/assets/76754592/0da11a8f-e79a-4206-9145-f9d215c26931" alt="Cornstarch <3" width="55" height="49">
+
+
